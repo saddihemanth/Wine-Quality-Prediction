@@ -1,21 +1,28 @@
-WINE QUALITY PREDICTION
-Project Overview:
+# Wine Quality Prediction
+
+## Project Overview
 This machine learning project predicts wine quality based on physicochemical properties.
-Algorithms Used:
+
+## Algorithms Used
 - Logistic Regression
 - KNN
 - Decision Tree
-Best Model:
+
+## Best Model
 Tuned Decision Tree
-Accuracy:
+
+## Accuracy
 89.68%
-Technologies:
+
+## Technologies
 - Python
 - Pandas
 - NumPy
 - Scikit-Learn
 - Matplotlib
-Dataset:
+
+## Dataset
 Wine Quality Dataset
-Author:
+
+## Author
 Hemanth Reddy Saddi
