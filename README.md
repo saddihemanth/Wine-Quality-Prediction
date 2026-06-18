@@ -20,6 +20,9 @@ Tuned Decision Tree
 - NumPy
 - Scikit-Learn
 - Matplotlib
+## Feature Importance
+
+![Feature Importance](images/feature_importance.png)
 
 ## Dataset
 Wine Quality Dataset
